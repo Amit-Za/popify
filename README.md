@@ -1,10 +1,10 @@
-# Funko POP Collection Orginizer
+# Popify
 
-The pop collection orginizer is a website designed to help pop collectors and pop owners in general orginize and sort their Funko pops.
+Popify is a website designed to help pop collectors and pop owners in general orginize and sort their Funko pops.
 
 ## The Database
 
-- The database I used is a widely accessible Funko POP archive which gets updated by users and moderators frequently.
+- The database it uses is a widely accessible Funko POP archive which gets updated by users and moderators frequently.
 - If your pop doesn't exist in the database, you can add it with a simple form.
 
 ## Collection Management
