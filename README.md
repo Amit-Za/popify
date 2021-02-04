@@ -14,5 +14,6 @@ Popify is a website designed to help pop collectors and pop owners in general or
 
 ## Social (sign up required)
 
-- You can view other people's collections, and have the options to get notified whenever they make chagnes to their collections.
+- You can view other people's collections, and have the options to get notified whenever they make chagnes to their collections (Follow).
+- You can also like and share collectins you view.
 - You can create chats with other users to talk about pops, arrange trades, or negotiate prices.
